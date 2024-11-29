@@ -1,0 +1,63 @@
+.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+   border: 1px solid black;
+}
+
+.hero {
+    padding-top: 80px;
+    padding-bottom: 160px;
+    background-image: url(./img/Rectangle\ 48.jpg);
+}
+
+
+.fs-1 {
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 459px;
+    color: black;
+    text-align: center;
+}
+
+.p {
+    color: beige;
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+.bust {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bax {
+    display: flex;
+    gap: 400px;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.menu {
+    padding-top: 147px;
+    padding-bottom: 131px;
+    background-image: url(./img/Rectangle\ 47.jpg);
+}
+
+.footer {
+    padding-top: 50px;
+    display: flex;
+    align-self: center;
+}
+
+.a {
+    margin-right: auto;
+    text-align: start;
+    margin-left: 0;
+}
